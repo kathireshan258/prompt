@@ -1,0 +1,25 @@
+Learning Strategy
+For each problem:
+
+Understand the problem
+Think about brute force
+Optimize step-by-step
+Write Java code
+Learn interview tips
+Practice variations
+
+Rule: Don't memorize code. Learn the thinking process.
+
+Hasmap simple problems:
+Two Sum
+Contains Duplicate
+Valid Anagram
+Longest Consecutive Sequence
+Subarray Sum Equals K
+
+HashMap Lookup Pattern
+Whenever you hear:
+Find pair
+Find complement
+Find target sum
+Check previous element
